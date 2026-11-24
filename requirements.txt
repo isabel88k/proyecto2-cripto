@@ -1,0 +1,2 @@
+# El motor y las pruebas utilizan exclusivamente la biblioteca estándar de Python.
+# No ejecutar pip install para usar la aplicación.

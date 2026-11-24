@@ -1,0 +1,21 @@
+# Documentos, informes y binarios de entrega
+*.docx
+*.pdf
+*.zip
+MANUAL_DESPLIEGUE.md
+output/
+results/
+
+# Entorno Python y cachés
+__pycache__/
+*.py[cod]
+.venv/
+.coverage
+tmp/
+dist/
+*.private.json
+*.key
+demo-local/
+pki-local/
+datos_entrega.local.json
+
